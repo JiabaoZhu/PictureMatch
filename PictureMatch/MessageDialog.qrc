@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/MessageDialog/back_lock.png</file>
+        <file>Resources/MessageDialog/back_prompt.png</file>
+        <file>Resources/MessageDialog/back_unlock.png</file>
+        <file>Resources/MessageDialog/round_blue.png</file>
+        <file>Resources/MessageDialog/round_green.png</file>
+        <file>Resources/MessageDialog/round_red.png</file>
+        <file>Resources/MessageDialog/btn_close_hover.png</file>
+        <file>Resources/MessageDialog/btn_close_normal.png</file>
+        <file>Resources/MessageDialog/btn_close_press.png</file>
+    </qresource>
+</RCC>
